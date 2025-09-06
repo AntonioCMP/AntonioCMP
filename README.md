@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Antonio Calderón :D
 
-🎓 Estudiante apasionado por el **Machine Learning**, **Analisis de Datos** y **Automatización de Procesos 😎**\n
+🎓 Estudiante apasionado por el **Machine Learning**, **Analisis de Datos** y **Automatización de Procesos 😎**
+
 🚀 Actualmente trabajando en proyectos de **Analisis Financieros**, **Predicciones LSTM** y **Uso de IA en Inversión 💸**.
 
 ## 🛠️ Tecnologías y Herramientas
