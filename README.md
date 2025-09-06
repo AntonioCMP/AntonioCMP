@@ -13,10 +13,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ## 🚀 Superb Projects
-- [💵 Análisis Finanicero de la Bolsa de Valores de Quito (BVQ)](https://github.com/AntonioCMP/BVQ-Scraper)
-- [🌎 Predicción de Contaminación en Tiempo Real](https://github.com/AntonioCMP/TrabajoFinalProgra1)
-- [📈 Identificador de tendencias de TikTok](https://github.com/AntonioCMP/Trend_Scraper_TikTok)
-- [🎯 Página Web de Coach Motivacional](https://github.com/AntonioCMP/Web_HMG)
+- [💵 Financial Analysis of Quito Stock Market (BVQ)](https://github.com/AntonioCMP/BVQ-Scraper)
+- [🌎 Real-time Pollution Predictions](https://github.com/AntonioCMP/TrabajoFinalProgra1)
+- [📈 TikTok Trend Identifier](https://github.com/AntonioCMP/Trend_Scraper_TikTok)
+- [🎯 Motivational Coach Web Page](https://github.com/AntonioCMP/Web_HMG)
 
 ## 📫 Contact with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-calder%C3%B3n-6b1136383/)
