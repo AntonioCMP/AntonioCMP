@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Antonio Calderón :D
+# 👋 ¡Hi! I am Antonio Calderón :D
 
-🎓 Estudiante apasionado por el **Machine Learning**, **Analisis de Datos** y **Automatización de Procesos 😎**
+🎓 Student passionate about **Machine Learning**, **Data Analysis** and **Process Automation😎**
 
-🚀 Actualmente trabajando en proyectos de **Analisis Financieros**, **Predicciones LSTM** y **Uso de IA en Inversión 💸**.
+🚀 Currently working in projects about **Financial Analysis**, **LSTM Predictions** and **Use of AI in investments 💸**.
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -12,12 +12,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-## 🚀 Proyectos Destacados
+## 🚀 Superb Projects
 - [💵 Análisis Finanicero de la Bolsa de Valores de Quito (BVQ)](https://github.com/AntonioCMP/BVQ-Scraper)
 - [🌎 Predicción de Contaminación en Tiempo Real](https://github.com/AntonioCMP/TrabajoFinalProgra1)
 - [📈 Identificador de tendencias de TikTok](https://github.com/AntonioCMP/Trend_Scraper_TikTok)
 - [🎯 Página Web de Coach Motivacional](https://github.com/AntonioCMP/Web_HMG)
 
-## 📫 Conéctate conmigo
+## 📫 Contact with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-calder%C3%B3n-6b1136383/)
 
